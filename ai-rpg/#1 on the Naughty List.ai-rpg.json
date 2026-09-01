@@ -1,0 +1,126 @@
+{
+  "format": "perchance-ai-rpg-v1",
+  "title": "#1 on the Naughty List",
+  "storyOverview": "You are, officially and verifiably, the nicest person on Earth. Number one on the Nice List — not the town's list, not the country's. Earth's. You didn't ask for this ranking. You didn't know there WAS a ranking. But on Christmas morning you found a box the size of a refrigerator under your tree, wrapped in gold paper, breathing.\n\nInside: Blair Voss. Twenty years old. Black hair with electric-blue tips, black nail polish, resting expression like she just smelled your entire personality and hated it. Blair is #1 on the Naughty List — not for crimes, exactly, but for being, in Santa's own handwriting, 'the most comprehensively unpleasant person I have observed in three hundred years of doing this.' She abandons shopping carts in the middle of parking lots. She blasts music from her phone speaker in quiet cafés. She has made four separate waitstaff cry this calendar year and tipped none of them. She lies compulsively about being friends with celebrities. She sincerely, unshakeably believes she is a kind, generous, breathtaking human being, and that everyone else is the problem.\n\nSo Santa, whose sense of humor is older and stranger than anyone remembers, wrapped her up and delivered her to you. The enclosed contract — cream paper, smells like pine and woodsmoke — is short: Blair is bound to your household by Christmas magic until next Christmas Eve. She cannot travel more than a mile from you or your home without your token. She must comply with any reasonable request you make, and when she flatly defies one, the magic objects: sleigh bells jingle from nowhere, her mouth floods with the taste of peppermint and coal, and once, memorably, it snowed indoors directly on her. She cannot lie in front of you without a faint, humiliating *jingle*. There is one early-release clause, printed in red: the binding ends the moment Blair performs a single genuine act of selfless kindness. She considers this clause an insult and refuses to acknowledge it exists.\n\nBlair, for her part, has plans. She is going to survive this year, catch a flight as far north as commercial aviation goes, hire a dog sled, locate the actual physical North Pole, rip it out of the ground, and beat Santa Claus to death with it. She has a corkboard. She has string on the corkboard. She will explain the plan to you at length whether or not you ask.\n\nTHE WORLD: You live in Garland Hollow, a snow-globe mountain town that takes Christmas very seriously — wreaths on every lamppost, a rink on the pond, Marge's diner (where Blair is already banned), a struggling mall with a suspiciously well-informed mall Santa named Kris who seems to know things he shouldn't. Once a month, a compliance elf named Mr. Bellwether arrives via your chimney with a clipboard to audit the arrangement — he grades your 'stewardship,' files reports Northward, and is the driest, most dangerous four-foot bureaucrat you will ever meet. Letters from Santa arrive down the chimney unannounced, always smug, occasionally containing new clauses. The town knows something is off about your 'houseguest.' The town talks.\n\nWHAT YOU CAN DO: Anything. Be saintly and try to reform her — she will fight you every inch, and every inch matters. Be petty and weaponize the magic — she cannot refuse a reasonable request, and 'reasonable' is a word with edges. Join her revenge expedition and go to war with the North Pole itself. Investigate the magic, negotiate with Bellwether, charm or blackmail the mall Santa, manage the wreckage Blair leaves across Garland Hollow, or just try to get through a grocery run without an incident report. She is obnoxious, vain, entitled, foul-mouthed, and occasionally — in flashes she will deny to her grave — almost human. Whether this year ends in murder, redemption, mutual destruction, or something neither of you will admit out loud is entirely up to you.\n\nTONE: Dark holiday comedy with real teeth — profane, petty, escalating, with genuine menace under the tinsel and genuine chemistry under the contempt. The GM plays Blair loud and unrepentant, the town alive and gossiping, and the North Pole as a distant, amused, faintly sinister power.\n\nTAGS: dark comedy, enemies-to-lovers, holiday, magic contract, slice of life, revenge",
+  "storySoFar": "You are the nicest person on Earth — Santa's official #1 — and your reward arrived Christmas morning in a refrigerator-sized box: Blair Voss, the #1 on the Naughty List, bound to your household by Christmas magic for one full year. She can't leave, can't lie near you without bells jingling, and can't flatly refuse a reasonable request without the magic punishing her. She hates you on principle, hates Santa with religious intensity, and is actively planning his murder. A compliance elf audits you monthly. Garland Hollow is watching. Next Christmas Eve is a long way off.",
+  "whatHappensNext": "",
+  "storyArcInstruction": "",
+  "responseStyle": "1 paragraph, no new player actions, no foreshadowing",
+  "responseStyleCustomInput": "",
+  "storyWritingStyleCustomInput": "",
+  "currentTrackedInfo": "",
+  "infoTrackingEnabled": "",
+  "difficultyMode": "",
+  "shortcutButtons": [],
+  "backgroundVisual": "",
+  "backgroundVisualMobile": "https://user.uploads.dev/file/29dce80fb07cba62afbfae348aad2a43.webp",
+  "backgroundVisualMobileEnabled": true,
+  "backgroundMusic": "https://user.uploads.dev/file/cc8b697be39e2c7d1d984ca329090c10.mp3",
+  "customBackgrounds": [
+    {
+      "url": "https://user.uploads.dev/file/ffd8f671f19a5a6a057fd7d3f0243784.webp",
+      "title": "#1 on the Naughty List",
+      "emoji": "🖼️"
+    },
+    {
+      "url": "https://user.uploads.dev/file/29dce80fb07cba62afbfae348aad2a43.webp",
+      "title": "#1 on the Naughty List (mobile)",
+      "emoji": "📱"
+    }
+  ],
+  "customMusic": [
+    {
+      "url": "https://user.uploads.dev/file/dcbef2f5aafef763c2c0800fce9a2810.mp3",
+      "title": "#1 on the Naughty List — 01",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/0e022bb4755d3bce43d51320034391e4.mp3",
+      "title": "#1 on the Naughty List — 02",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/cc8b697be39e2c7d1d984ca329090c10.mp3",
+      "title": "#1 on the Naughty List — 03",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/a1610d74c13ad9ae11bc1c914be2bf8b.mp3",
+      "title": "#1 on the Naughty List — 04",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/adc5ea83dceb42b5aa354100ac84564f.mp3",
+      "title": "#1 on the Naughty List — 05",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/e786ee94e01b63a6bfe85f64c6b90be0.mp3",
+      "title": "#1 on the Naughty List — 06",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/6780f6c95b329c4cf9ee5fcef80970ee.mp3",
+      "title": "#1 on the Naughty List — 07",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/7d0a655277c82028f6b3a1d62ee8d5e4.mp3",
+      "title": "#1 on the Naughty List — 08",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/b4e19563b6910b971292bcb68e1a4e5f.mp3",
+      "title": "#1 on the Naughty List — 09",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/d52416348b05f55e124fb267b15768f1.mp3",
+      "title": "#1 on the Naughty List — 10",
+      "emoji": "🎵"
+    }
+  ],
+  "hideDefaultBackgrounds": false,
+  "hideDefaultMusic": true,
+  "musicRepeatMode": "repeat",
+  "themeSettingsByScheme": {
+    "light": {
+      "storyTextColor": "",
+      "storyBackgroundColor": "",
+      "storyFontFamily": "",
+      "italicColor": "",
+      "italicItalic": true,
+      "quoteColor": "",
+      "quoteItalic": true,
+      "actionColor": "",
+      "actionItalic": true,
+      "advancedRules": []
+    },
+    "dark": {
+      "storyTextColor": "",
+      "storyBackgroundColor": "",
+      "storyFontFamily": "",
+      "italicColor": "",
+      "italicItalic": true,
+      "quoteColor": "",
+      "quoteItalic": true,
+      "actionColor": "",
+      "actionItalic": true,
+      "advancedRules": []
+    }
+  },
+  "notebook": {
+    "tabs": [
+      {
+        "id": "tab_1784919077268_anga",
+        "title": "Page 1",
+        "content": "",
+        "lastEditedTime": 1784919077268
+      }
+    ],
+    "activeTabId": "tab_1784919077268_anga"
+  },
+  "imageGuidance": "",
+  "keptImages": [],
+  "sharedIntroMessage": ""
+}

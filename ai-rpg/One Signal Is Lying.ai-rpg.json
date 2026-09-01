@@ -1,0 +1,126 @@
+{
+  "format": "perchance-ai-rpg-v1",
+  "title": "One Signal Is Lying",
+  "storyOverview": "You're the new overnight engineer at KVOP 1490 AM in Pell's Hollow, a town that has quietly obeyed the Evening Advisory for fifty years. Curtains down by dusk. Don't answer the second knock. Count the grain elevator lights before crossing Route 9. Nobody remembers why the rules exist — only that people who keep them stay, and people who don't, don't. The announcer, Dell Marsh, records alone behind a locked booth door and speaks to you only through a note slot. You have never seen his face.\n\nThree weeks ago a second signal appeared on the same frequency. Same voice. Same call letters. Instructions that are almost right. It learns: every time the town discovers a tell — a mispronounced street name, a count it won't finish — it fixes the flaw within days. Warning people teaches it. Staying quiet gets them taken.\n\nSheriff Ada Brant wants you to 'verify' broadcasts before the town acts on them, which makes you the person everyone calls at 2 a.m. asking which voice to trust. You can't fight a frequency. You can archive it, triangulate it, bait it, out-listen it. The GM should keep the imposter adaptive, patient, and paying attention to what you say on air — including right now.\n\nTAGS: analog horror, small town, survival, mystery, deduction, slow-burn dread",
+  "storySoFar": "You run the overnight board at KVOP 1490 AM, the only station in Pell's Hollow — farm reports, lost dogs, and the Evening Advisory the whole town obeys without ever asking why. Three weeks ago a second broadcast appeared on your frequency: the announcer's exact voice, giving instructions that are slightly, fatally wrong. People who follow it stop showing up, or show up changed. Every tell you find, it corrects within days. The real announcer records behind a locked booth door and passes you notes. You have never seen his face. Tonight, like every night, both signals will speak.\n\n---\n\nYou spent your dinner break splicing tape, and now it's laid out across the production room like an autopsy: fourteen days of Advisories, real and false, side by side on the reels. Tonight you found something. Day nine, the imposter says \"Corrigan Street.\" Everyone in Pell's Hollow says 'Kerrigan,' spelling be damned. Day twelve, it says 'Kerrigan' — corrected, four days after Fran at the diner joked about it out loud with the radio playing. It listens to the town listening. You're writing this down when the studio hotline buzzes: Sheriff Brant, wanting tonight's verification before the 11 p.m. Advisory, and behind you, unprompted, the production room monitor pops on with a soft click. Dead air on 1490. Then, faintly, a throat clearing. It's 9:36. Nobody broadcasts at 9:36.",
+  "whatHappensNext": "",
+  "storyArcInstruction": "",
+  "responseStyle": "1 paragraph, no new player actions, no foreshadowing",
+  "responseStyleCustomInput": "",
+  "storyWritingStyleCustomInput": "",
+  "currentTrackedInfo": "",
+  "infoTrackingEnabled": "",
+  "difficultyMode": "",
+  "shortcutButtons": [],
+  "backgroundVisual": "https://user.uploads.dev/file/c89b8a274cca43abdd786a10f2f656ad.webp",
+  "backgroundVisualMobile": "https://user.uploads.dev/file/c89b8a274cca43abdd786a10f2f656ad.webp",
+  "backgroundVisualMobileEnabled": true,
+  "backgroundMusic": "https://user.uploads.dev/file/222db4d8bed1c7059785e73b3f85d06d.mp3",
+  "customBackgrounds": [
+    {
+      "url": "https://user.uploads.dev/file/e5f455364bbbe0e4954b1f4ff677a7b6.webp",
+      "title": "One Signal Is Lying",
+      "emoji": "🖼️"
+    },
+    {
+      "url": "https://user.uploads.dev/file/c89b8a274cca43abdd786a10f2f656ad.webp",
+      "title": "One Signal Is Lying (mobile)",
+      "emoji": "📱"
+    }
+  ],
+  "customMusic": [
+    {
+      "url": "https://user.uploads.dev/file/222db4d8bed1c7059785e73b3f85d06d.mp3",
+      "title": "One Signal Is Lying — 01",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/f6804d06b2106b9739aa90cecaa57da9.mp3",
+      "title": "One Signal Is Lying — 02",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/1885489c73695436c0a487fc3be02d12.mp3",
+      "title": "One Signal Is Lying — 03",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/cc78c42e89ab7675c0e8526cf2790846.mp3",
+      "title": "One Signal Is Lying — 04",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/9a0ec8b3618d2065ff89e198a690118e.mp3",
+      "title": "One Signal Is Lying — 05",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/6c3e19a6ad818fe8e4979cb50df24afb.mp3",
+      "title": "One Signal Is Lying — 06",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/a1bc0d05efaccb041bf577de9099f1b8.mp3",
+      "title": "One Signal Is Lying — 07",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/19ad7bd97fa16ba28f2f3b80f600755c.mp3",
+      "title": "One Signal Is Lying — 08",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/e98690f46e5530f1462b1bf27271285b.mp3",
+      "title": "One Signal Is Lying — 09",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/43bab5ab740f56076ac6bcb3ae2d06a5.mp3",
+      "title": "One Signal Is Lying — 10",
+      "emoji": "🎵"
+    }
+  ],
+  "hideDefaultBackgrounds": false,
+  "hideDefaultMusic": true,
+  "musicRepeatMode": "next",
+  "themeSettingsByScheme": {
+    "light": {
+      "storyTextColor": "",
+      "storyBackgroundColor": "",
+      "storyFontFamily": "",
+      "italicColor": "",
+      "italicItalic": true,
+      "quoteColor": "",
+      "quoteItalic": true,
+      "actionColor": "",
+      "actionItalic": true,
+      "advancedRules": []
+    },
+    "dark": {
+      "storyTextColor": "",
+      "storyBackgroundColor": "",
+      "storyFontFamily": "",
+      "italicColor": "",
+      "italicItalic": true,
+      "quoteColor": "",
+      "quoteItalic": true,
+      "actionColor": "",
+      "actionItalic": true,
+      "advancedRules": []
+    }
+  },
+  "notebook": {
+    "tabs": [
+      {
+        "id": "tab_1784853693277_vgfa",
+        "title": "Page 1",
+        "content": "",
+        "lastEditedTime": 1784853693277
+      }
+    ],
+    "activeTabId": "tab_1784853693277_vgfa"
+  },
+  "imageGuidance": "",
+  "keptImages": [],
+  "sharedIntroMessage": ""
+}
