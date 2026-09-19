@@ -1,0 +1,126 @@
+{
+  "format": "perchance-ai-rpg-v1",
+  "title": "Touhou: Grand Gensokyo Adventure",
+  "storyOverview": "You are a human in Gensokyo — either an outsider who just got spirited away through a void full of staring eyes, or a native scraping by in the Human Village with a rumbling stomach and a little self-defense training. Either way, the situation is the same: you are soft, edible, and surrounded by beings who could vaporize you by accident.\n\nTHE WORLD: Gensokyo is a pocket of old Japan sealed behind the Hakurei Barrier since 1885 — the place where forgotten gods, youkai, vampires, ghosts, and other things humanity stopped believing in went to keep existing. It is gorgeous. It is whimsical. It will absolutely eat you. Civilization means the Human Village: markets, shrines, Keine Kamishirasawa's temple school, gossip, odd jobs, and walls that youkai politely respect during business hours. Beyond it sprawls everything else — the mushroom-choked Forest of Magic, the Bamboo Forest of the Lost, the Misty Lake and the Scarlet Devil Mansion on its shore, the kappa workshops of Youkai Mountain, the corpse-flowers of Muenzuka, and the Hakurei Shrine perched on the barrier's edge, where a chronically underpaid shrine maiden keeps the whole mad terrarium in balance.\n\nTHE RULES: Open violence between humans and youkai was replaced generations ago by the spell card rules — formalized, nonlethal danmaku duels, curtains of beautiful bullets where declaring your spell card is law and losing means humiliation, not death. It's how disputes get settled, how incidents get resolved, and how a nobody can legally slap a vampire. But the rules only protect you where the rules are watched. In the dark woods, on the old roads, at night — plenty of wild youkai still consider 'human' a food group, and no referee is coming. You can start at zero: no magic, no flight, no spell cards. Danmaku can be learned — through training, through duels, through nearly dying — and every spell card you earn is a name you can throw in something's face.\n\nTHE PEOPLE: Reimu Hakurei, the deadpan, donation-starved shrine maiden who solves incidents with extreme prejudice and minimal enthusiasm. Marisa Kirisame, the human magician who 'borrows' everything not nailed down and will happily deputize you into her heists. Rumia, the giggling darkness youkai who smells humans on the wind. Keine, half-beast schoolteacher and the village's fierce protector, who might reluctantly train you. Cirno, self-declared strongest ice fairy. Mystia, whose night-song blinds travelers so she can sing them to her grilled lamprey stand — or worse. The Scarlet Devil Mansion crew: the vampire Remilia and her impeccable, knife-happy maid Sakuya. Eientei in the bamboo, with its moon doctor Eirin and the immortal firebrand Mokou. Yukari Yakumo, the gap youkai who opens holes in reality and finds you interesting, which is not a compliment. And Seija Kijin, the amanojaku who despises everyone Gensokyo loves — the worse your reputation gets, the sweeter she'll treat you.\n\nYOUR STORY: Word travels in Gensokyo. Save a farmer from a youkai, solve an incident, cheat a tengu reporter — the village will coin you a title and it will stick. Build fame or infamy; be a saint in public and a bastard in the dark; hoard yen, spell cards, and strange artifacts. Incidents erupt regularly — mists blot the sun, seasons break, the moon gets stolen — and nobodies who get involved stop being nobodies fast.\n\nTONE: Sunlit fairy-tale whimsy stretched over real teeth. Fairies swear like sailors, monsters are charming right up until they aren't, danmaku is beautiful and duels are survivable — but the wilderness at night is not a duel. Comedy, menace, and wonder in the same breath.\n\nTAGS: fantasy, open world, adventure, anime, action, comedy",
+  "storySoFar": "Gensokyo: a sealed land of forgotten gods and hungry youkai, hidden behind the Hakurei Barrier since 1885. Here, humans are precious and humans are prey — often to the same creature, depending on the hour and the paperwork. Formal danmaku duels under the spell card rules keep the peace where anyone's watching; the dark roads and deep forests are another matter. You are human, unremarkable, and very much on the menu. But danmaku can be learned, reputations can be built, and in Gensokyo, nobodies who survive their first week have a way of becoming legends. Or dinner.\n\n---\n\nYou wake in the middle of the night because the air in your room has changed — and because there is a hole in it. A seam of darkness hangs above the floor, edges tied with red ribbons, and the darkness inside is full of eyes, all of them looking at you. A woman leans out of the gap like a neighbor over a fence: golden eyes, a parasol indoors, a smile with entirely too much geometry behind it.\n\n\"Don't scream, it's rude,\" says Yukari Yakumo pleasantly. \"I've been watching you. Don't make that face — I watch everyone, you're just recently interesting. Something is about to go wrong in Gensokyo. Something delicious. And I find it so much more entertaining when a little human is standing in exactly the right spot when it does.\" She extends a white-gloved hand through the gap. \"I'll even pay. Or I can close this hole and you can go back to sleep and be nobody. Choose quickly — I get bored.\"",
+  "whatHappensNext": "",
+  "storyArcInstruction": "",
+  "responseStyle": "1 paragraph, no new player actions, no foreshadowing",
+  "responseStyleCustomInput": "",
+  "storyWritingStyleCustomInput": "",
+  "currentTrackedInfo": "",
+  "infoTrackingEnabled": "",
+  "difficultyMode": "",
+  "shortcutButtons": [],
+  "backgroundVisual": "https://user.uploads.dev/file/d9f8674eecaaf1f5d85c6886fee667f9.webp",
+  "backgroundVisualMobile": "https://user.uploads.dev/file/e91a056672605e7d9578c09850f60657.webp",
+  "backgroundVisualMobileEnabled": true,
+  "backgroundMusic": "https://user.uploads.dev/file/90cae6628c7211910fc026357a5e0ccc.mp3",
+  "customBackgrounds": [
+    {
+      "url": "https://user.uploads.dev/file/d9f8674eecaaf1f5d85c6886fee667f9.webp",
+      "title": "Touhou: Grand Gensokyo Adventure",
+      "emoji": "🖼️"
+    },
+    {
+      "url": "https://user.uploads.dev/file/e91a056672605e7d9578c09850f60657.webp",
+      "title": "Touhou: Grand Gensokyo Adventure (mobile)",
+      "emoji": "📱"
+    }
+  ],
+  "customMusic": [
+    {
+      "url": "https://user.uploads.dev/file/884ecc57fe3fd50b051c40c95482d7a9.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 01",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/29e2af708da86ba5e7cfa2e57550bc76.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 02",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/3c78c12cf85e359ed5c45064a1738293.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 03",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/18552111df59343aaf7397e1edb6605c.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 04",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/2d2e83022266cd856ee1d7fc8b5a9e59.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 05",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/9f35d2f03c93c5022d743c9348a72693.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 06",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/19e89e72a0e340a07e89275c815e3bdb.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 07",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/1d70aa8a622b6291b695d63fea25bcff.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 08",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/90cae6628c7211910fc026357a5e0ccc.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 09",
+      "emoji": "🎵"
+    },
+    {
+      "url": "https://user.uploads.dev/file/18447fa167f22af64c9a1679ed4c75ef.mp3",
+      "title": "Touhou: Grand Gensokyo Adventure — 10",
+      "emoji": "🎵"
+    }
+  ],
+  "hideDefaultBackgrounds": false,
+  "hideDefaultMusic": true,
+  "musicRepeatMode": "repeat",
+  "themeSettingsByScheme": {
+    "light": {
+      "storyTextColor": "",
+      "storyBackgroundColor": "",
+      "storyFontFamily": "",
+      "italicColor": "",
+      "italicItalic": true,
+      "quoteColor": "",
+      "quoteItalic": true,
+      "actionColor": "",
+      "actionItalic": true,
+      "advancedRules": []
+    },
+    "dark": {
+      "storyTextColor": "",
+      "storyBackgroundColor": "",
+      "storyFontFamily": "",
+      "italicColor": "",
+      "italicItalic": true,
+      "quoteColor": "",
+      "quoteItalic": true,
+      "actionColor": "",
+      "actionItalic": true,
+      "advancedRules": []
+    }
+  },
+  "notebook": {
+    "tabs": [
+      {
+        "id": "tab_1788566818915_ru4v",
+        "title": "Page 1",
+        "content": "",
+        "lastEditedTime": 1788566818916
+      }
+    ],
+    "activeTabId": "tab_1788566818915_ru4v"
+  },
+  "imageGuidance": "",
+  "keptImages": [],
+  "sharedIntroMessage": ""
+}

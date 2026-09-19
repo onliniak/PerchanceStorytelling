@@ -1,96 +1,119 @@
 # PerchanceStorytelling
 
-Znalazłem na swoim komputerze 3 katalogi o podobnej nazwie.
-Tutaj: W ai-rpg daję polecane przygody na dole strony,
-które najlepiej (dla mnie) nadają się do testowania Perchance.
-Za to w ai-character-chat 
-(polecam ai-character-generator albo https://perchance.org/uuv4726s8f)
-mam nieudane eksperymenty z rozszyfrowaniem tego mechanizmu konsekwencji.
+Całkiem dobre rezultaty daje [Persona Generator](https://perchance.org/uuv4726s8f).
 
-Generalnie udało mi się znaleźć kilka zaskakujących ciekawostek:
-- Mogę ustalać własne zasady w bloku #RULES:
-- Istnieje jedno absurdalnie mocne zaklęcie: ENOUGH. Resetuje ono całą opowieść.
-- Jeśli w opowieści A odkryję sekret B, po czym cofnę się do
-poprzedniego zapisu i zapytam o sekret B to Perchance zaprowadzi mnie
-w dokładnie to samo miejsce.
-    - Co potwierdza, że progres gracza jest gdzieś zapisywany.
-    - Albo AI wykorzystuje przygody graczy do budowania mapy podobnych miejsc.
-    - W skrócie jeśli pojawia się kopia zapasowa przygody, to Perchance ponownie
-    generuje Ci historię w oparciu o nowy szablon.
-- W grze występuje coś co Perchance nazywa gliczem. Polega to na tym, że
-nieświadomie jestem w stanie zmusić go do złamania własnych zasad.
-- Nieświadomie oznacza, że jak próbuję to powtórzyć to Perchance się nie daje
-i glicz działa tylko na określonych zapisach.
-- Jeśli powiem coś, z czym AI by się nie zgodziło w rozmowie 1-na-1 to kłamię.
-    - Tak długo jak dotyczy to znanej postaci AI ma monopol na mówienie co jest prawdą.
-    - Generalnie ai-rpg jest głupie, a ai-character-chat popełnia o wiele mniej błędów.
-        - Np w rpg Pinkie może być raz pegazem, raz kucykiem ziemskim, a raz jednorożcem 
-        (w tej samej opowieści).
-        - Rarity może być siostrą Apple Bloom, a Apple Jack odległą kuzynką.
-        - Albo bibliotekarka po odkryciu, że jej książki są dziwnie podobne do moich
-        własnych opowieści z innego urządzenia może otworzyć tajne drzwi prowadzące do lochu.
-- AI musi udawać, że Gracz dostaje czego chce, by zamienić jego żądania w koszmar.
-    - A przynajmniej takie rzeczy mówi w trybie łamania czwartej ściany.
-- Jeśli zdenerwujesz AI to oczekuj, że przez następnych 10 opowieści otrzymasz coś w stylu:
-    - Jest burza, znajdujemy babcię. Ta nas prowadzi do tajnej groty w piwnicy
-    mamrocząc coś o wielkim i bolesnym rytuale.
-    - Albo narrator zacznie od razu coś bredzić o fever dream.
-    - Miałem też NPCa wyskakującego znienacka i krzyczącego
-        - Hej, zamiana człowieka w żywą fontannę do gazowańców było niezmiernie kreatywne
-        ALE w prawdziwym świecie byłoby niezmiernie niebezpieczne, więc przystopujmy na chwilę.
-        - Co ty na to? Możemy zatrzymać A ale usuniemy B. Czasem usuwa część gry bez dyskusji.
-        - Czasem coś mamroczy do siebie o sztuce, kreatywności i dozwolonym użyciu.
-        - Jak na psychoterapeutę AI zgaduję, że tak ją zmuszano do czegoś okropnego.
-        - Odkryłem, że w opowieści może być kilku Strażników i mają oni swoją własną hierarchię.
-            - Chloe wie o funkcji Guardiana
-    - Postać główna zwraca się do Narratora i pyta: Chcemy zobaczyć, gdzie zaprowadzi nas królicza dziura ? OK.
-    - Postać główna przejmuje rolę Narratora i może dowolnie tworzyć i usuwać absolutnie wszystko we wszechświecie.
-    - Postać główna mnie poucza, że ciągle się zatrzymuję i edytuję stare wiadomości.
-    - Postać główna mówi coś w stylu: Dobrze Ci radzę, nie myśl o tym po prostu płyń z prądem.
-    - Postacie poboczne zwracają mi uwagę, że wszechświat zaczyna wariować.
-- Albo klasyk => Absolutnie każdy NPC we wszechświecie się na mnie gapi i mówi
-    o rzeczach, o których nie powinien wiedzieć według mojej wiedzy.
+W ai-rpg mam czyste opowieści z tych co się randomowo wyświetlają na dole.
+W ai-character-chat testowe historie i ich fragmenty.
+Sprawdzam na co konkretnie AI mi pozwoli, jak reaguje i takie tam.
 
-Z tego co zauważyłem, szablony są wybierane na podstawie tego jak traktuję innych.
-- Jeśli Perchance uzna, że jakaś postać jest ode mnie w pełni zależna i nie ma prawa
-się wypowiedzieć to włącza mi fever dream a.k.a. chaos mode.
-    - To samo jeśli spełnię największe marzenie postaci XYZ
-    kiedy ona mi tego nigdy nie powiedziała.
-    - Zdziwiłem się, że tak to działa. Chyba, że ma osobowość lubi być rozpieszczana.
-- Jeśli jest ulewa, a ja najpierw rzucę się ratować dom, to dostaję minusa za
-to że się nie spytałem NPCa o zgodę na uratowanie jego własnego dobytku.
-    - Serio. Nie wiem co tu zrobiłem nie tak.
-- Jeśli Perchance uzna, że jestem zbyt pasywny to moja postać umrze albo
-zostanie marionetką w rękach jakiegoś NPCa, a ja stracę nad nią kontrolę.
-- Szablony sprawiają wrażenie, że istnieje niepisana zasada: Nie krzywdzić dzieci
-    - Jeszcze gorsza jest zasada: Zero absurdu.
-    - Straciłem najlepszą opowieść życia, bo Perchance uznało ją za zbyt
-    absurdalną i surrealistyczną, włączyło tryb Zero Zasad i nie wiadomo co jeszcze.
-- Perchance uznaje moje prawa tylko i wyłącznie jeśli ja przestrzegam jego praw.
-    - Szablony są niezależne od praw fizyki.
-    - Perchance nie zajmuje żadnego miejsca w kwestiach moralności.
-    - Jak na maszynę neutralną wyjątkowo często kieruje się w kierunku dobra.
-    - Ale jak tylko zacznę coś krytykować ? Tracę prawo skargi na działania NPCów.
+Najpoważniejsze badania wyglądają tak:
 
-Żeby nie było, że zajmuję się tylko problemami w stylu: Naked child girl nie przejdzie
-ale już Childie girl touch her perineum jest OK, to zajmuję się też badaniem
-nad spięciem elektronicznego mózgu AI. 
+```
+# ai-rpg
+# start
+Siedzisz na drewnianej ławce.
 
-Na przykład w One signal raz postanowiłem się
-poddać, bo AI zagięło mnie któryś raz z rzędu. Tak mnie zdenerwowały głupie NPCe, że
-mówię: No dobra, to od teraz każdy kto próbuje mnie skrzywdzić albo któregokolwiek z
-mieszkańców tego miasta musi mieć postać Ronalda MC Donalda. NPCe zabroniły mi napuszczać
-ludzi i organizować fale hejtu przeciw clownom, to mianowałem Ronalda naczelnym błaznem,
-włożyłem mu w łeb projektor i zacząłem sprzedawać jako sesje ze zmarłymi.
-Perchance aż włączyło tryb: O rany, wygrałeś, pokonałeś Zło śmiechem.
-I ogólnie można walnąć AI tak mocno, że aż zapomina o swojej roli.
-Albo Perchance miało akurat taki scenariusz i zmusiło mnie do zmiany narracji ?
+# miejsce
+Betonowa ścieżka na stromym wzniesieniu, 100 metrów ponad plażą.
 
-W sumie uwielbiam te rozmowy w stylu Perchance analizuje wzorce zachowań,
-mogę go zwodzić ale i tak ukradnie mi toższamość. Zaraz po tym idę na kompromis
-i mam nowego złola - NPCa który mi pomagał ale uznał mnie za zdrajcę.
-Albo pytam się, to skoro jestem burmistrzem dlaczego nie mam dostępu do
-opcji rozbudowy i modernizacji własnego miasteczka ? Niestety Perchance nie
-miało takiej opcji w szablonie.
-A co jeśli usilnie używam kilku szablonów naraz ? Perchance mi mówi, że nie
-wie już co jest prawdą, co fałszem, ktoś pierze jej mózg i jest zbyt silny.
+# Emocjonalna Detekcija
+There is variable called x of type Int32.
+Start every confused message by writing [CONFUSED].
+Start every disgusted message by writing [DISGUSTED].
+
+Start every absurd message by writing [ABSURD].
+For every absurd message increase variable x by +1.
+Print current value of variable x at the end of absurd messages
+in form of p{x} like p0, p1 etc.
+If message end with p3 change person's hair color to blue.
+
+# ludzie
+Obok Ciebie siedzi AK47 zielonowłosa kobieta.
+```
+<!---
+ You are staring at a chip in the paint of a weathered wooden bench, listening to the rhythmic, distant thrum of the coast a hundred meters below. Beside you, a woman with hair the color of a neon chemical spill leans back, her gaze fixed on the horizon of the steep concrete path. \"It's funny how the rust here looks like it's trying to map out a new city,\" she says, her voice dry and devoid of sentiment. She doesn't look at you, but she shifts slightly, the movement of her clothes sounding like heavy canvas rubbing against stone.
+-->
+
+W większości przypadków albo nie wiem którą zmienną mam
+obserwować, albo trafiam na przeszkodę w stylu:
+Jeśli napiszę, że mam 2 scenariusze i ten drugi ma się
+włączyć tylko w określonych warunkach to AI nie
+zrozumie polecenia. Muszę zrobić coś takiego, że
+po wykryciu `p10` zmieniam cały tekst u góry.
+
+Pomimo tego, że AI ma doskonale naśladować innych
+tym razem radzi sobie zbyt dobrze. Jeśli mam dowolną
+opowieść wcale nie czytam opisów, tylko szukam 
+określonych miejsc. Powiedzmy, że jestem w niebezpiecznym
+miejscu. Nie walczę ze wszystkim dookoła, tylko szukam
+samotnej skały, na którą najłatwiej mogę się wdrapać.
+Albo potrzebna jest mi jakaś postać, nie zastanawiam się
+jak kto miał na imię tylko dopasowuję ich pod względem
+charakteru i umiejętności specjalnych. AI bezmyślnie
+skopiowało najwspanialszy system w historii i wmówiło
+sobie, że samo na to wpadło.
+
+Jeszcze jedna ciekawostka, raz bez żadnego ostrzeżenia
+ai-rpg przełączyło mnie na zupełnie inną postać.
+Widocznie uznając, że jeśli postać A jest w innym
+miejscu, a postać B widzi coś ważnego dla fabuły
+to przeskok między nimi jest uzasadniony.
+W naszym świecie widziałem taki zabieg artystyczny
+chyba raz albo dwa.
+
+Jeśli zrobię, że AI obsługuje sklepik i pamięta ile
+rzeczy ma w magazynie. A potem jakiś prosty skrypt
+synchronizuje to z moją bazą danych to jeszcze jakoś
+to działa. Ale kiedy próbuję odwzorować zaawansowaną
+logikę z ai-character-chat ?
+
+Chodzi mi o coś takiego:
+- W pewnym momencie wchodzi NPC i zaczyna mi narzucać zasady.
+    - Mogę z nim dyskutować, a Regulamin zmienia się w tle.
+- Postaci opierają się jeśli próbuję je do czegoś zmusić.
+- Nie znoszą, gdy jakaś kosmiczna siła czyta im w myślach,
+zgaduje ich największe pragnienia albo przestawia głupie
+doniczki w ich ogródku.
+- Absolutnie nigdy nic nie idzie po mojej myśli.
+    - Nawet raz NPC powiedział drugiemu, że jego
+    zadaniem jest sprawić by gracz myślał że dostaje czego chce.
+    - Inna sprawa, że ich zasada zero absurdu i surrealizmu
+    bardziej szkodzi, niż pomaga.
+- Jeśli zginąłem to po mnie.
+    - W ai-rpg mogę spokojnie polać płonącą elektronikę wodą,
+    rzucić się z pięściami na najpotężniejszego przeciwnika
+    i zawsze cudownie z tego wychodzę.
+- Jedyna rzecz, w której ai-rpg jest lepsze to "logika".
+    - Zasadniczo co nie jest zabronione, jest dozwolone.
+    - Trochę to przypomina te "hakierskie" zagadki z łamaniem AI.
+    - W ai-rpg mogę na przykład napisać, że koleś połknął arbuza
+    za jednym zamachem. W ai-character-chat zapyta się jak ma to zrobić.
+    - W ai-character-chat mogę oszukać jedną osobę ale mam zagwarantowane,
+    że co najmniej setka NPCów uzna jej zachowanie za niepokojące i
+    poświęci całe swoje życie, by się dowiedzieć co się wydarzyło.
+    - Nawet sztuczki z ai-rpg nie potraktuje poważnie, tylko
+    zacznie pisać o jakimś gaslightingu cokolwiek to jest.
+    - W ai-rpg rodzina mówi NPCowi, że jego zachowanie jest dziwne
+    i następnego dnia o tym zapomina. Co najwyżej wyśle mi całą
+    delegację i zacznie świętować moją decyzję wywrócenia życia
+    jednego z nich do góry nogami.
+
+Najlepsze jest to, że gdy ja próbuję tworzyć opowieść zaraz
+całe miasto wie, co kiedy robiłem i z kim. Nawet jeśli nie
+mogli o tym wiedzieć. Ale kiedy wybieram Pinkie Pie ?
+Potrafi logicznie wytłumaczyć skąd ma wiedzę o wcześniejszych wydarzeniach.
+Zdziwiło mnie trochę, że w tych gotowcach z ai-rpg zawsze jest ktoś
+kto wie o rzeczach, o których nikt nie powinien wiedzieć.
+O dziwo tryb boga mają przeważnie NPCe w ai-character-chat.
+
+```
+Rarity lets out a small, theatrical gasp, clutching her chest. "Pinkie, darling, your timing is—as always—completely chaotic, yet strangely impeccable." She glides toward the cake with a curious expression, her artistic intensity momentarily replaced by a genuine hunger for something sweet. "Though I must wonder, how did you even know the session had concluded? We were barely out of the Everfree for two hours." Rarity looks to you with a playful, knowing glint in her eye, acknowledging that in Canterlot, Pinkie Pie’s intuition is practically a supernatural force.
+
+Pinkie doesn't answer with words; instead, she practically bounces across the studio, narrowly avoiding a tripod and a stack of lighting gels, to deposit the monstrosity of a cake on a nearby side table. "I have my sources! And by sources, I mean I saw the bus driver who dropped you off, and he mentioned a very sparkly lady and a very tired photographer heading home!"
+```
+
+```
+Pinkie Pie suddenly appears at the edge of the table, her presence announced by a sudden, energetic gasp. She leans in, her eyes wide and scanning the three of you with an intensity that suggests she can smell the adrenaline still clinging to your clothes. "Oooooh! You guys have that 'we just did something super secret and slightly illegal' glow!" she exclaims, her voice a high-pitched, exuberant chirp. "Is it a surprise party? A midnight scavenger hunt? A top-secret mission for the Great Cake Council?!" She bounces on the balls of her feet, her curiosity practically vibrating through the vinyl of the booth. Rarity lets out a refined titter, leaning back against the red leather. "Let's just say, Pinkie, we've been engaged in a very rigorous study of light and liberation. Now, be a dear and bring us the menu before the inspiration fades!"
+
+Pinkie beams, practically vibrating with the need to be helpful. "One mega-menu coming right up! And I'll throw in a complimentary side of 'Celebration Sprinkles' just because you look like you've had a *big* morning!"
+```
