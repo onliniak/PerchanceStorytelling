@@ -41,25 +41,46 @@ włączyć tylko w określonych warunkach to AI nie
 zrozumie polecenia. Muszę zrobić coś takiego, że
 po wykryciu `p10` zmieniam cały tekst u góry.
 
-Pomimo tego, że AI ma doskonale naśladować innych
-tym razem radzi sobie zbyt dobrze. Jeśli mam dowolną
-opowieść wcale nie czytam opisów, tylko szukam 
-określonych miejsc. Powiedzmy, że jestem w niebezpiecznym
-miejscu. Nie walczę ze wszystkim dookoła, tylko szukam
-samotnej skały, na którą najłatwiej mogę się wdrapać.
-Albo potrzebna jest mi jakaś postać, nie zastanawiam się
-jak kto miał na imię tylko dopasowuję ich pod względem
-charakteru i umiejętności specjalnych. AI bezmyślnie
-skopiowało najwspanialszy system w historii i wmówiło
-sobie, że samo na to wpadło.
-
-Jeszcze jedna ciekawostka, raz bez żadnego ostrzeżenia
-ai-rpg przełączyło mnie na zupełnie inną postać.
-Widocznie uznając, że jeśli postać A jest w innym
-miejscu, a postać B widzi coś ważnego dla fabuły
-to przeskok między nimi jest uzasadniony.
-W naszym świecie widziałem taki zabieg artystyczny
-chyba raz albo dwa.
+Algorytm działa jakoś tak:
+- Sprawdź relacje między protagonistą, a NPC-em.
+    - Dominująca
+    - Uległa
+    - Coś pomiędzy
+- Na tej podstawie automatycznie ustal charakter protagonisty.
+- Opowieści są tworzone na zasadzie:
+potrzebuję 3 postaci o charakterach: A, B i C.
+    - Jeśli poprzednia postać miała charakter A
+    to usuń ją z tej sceny.
+    - Raz trafiłem na 2 postacie z identycznym charakterem
+    to wyglądało to jak rozmowa dwóch klonów używających
+    identycznych słów i sposobu bycia.
+- Scenariusz może zostać zmieniony jeśli gracz zacznie pisać
+wiadomości w zupełnie innym nastroju.
+- To co piszę trafia pod jakiś zaawansowany REGEX,
+stąd część wiadomości może zostać pominięta.
+- Jeśli protagonista zbyt długo nic nie robi, to
+ześlij mu paczkę z prezentami albo NPCa który
+podpowie co zrobić dalej.
+    - W takim "trudnym" Gensokyo wyłudziłem celownik
+    laserowy, metal przecinający wszelkie znane mi
+    materiały, noktowizor, termowizor, granaty i zwierzaka.
+    - Każdy nazywa mnie cheaterem ale ja mam to za nic.
+- Prawo Milo Murphiego.
+    - Dokładnie ten sam sposób wymyślania wyzwań
+    gdy kontynuuję wiadomość.
+- Istnieje coś takiego jak Nazwa (AU) (maid)
+- Postać grana przez gracza może ulec zmianie.
+    - I musi postępować zgodnie z jego instrukcjami
+    nawet wbrew własnej woli (?).
+    - Dotyczy ai-rpg, w ai-character-chat po prostu
+    złamie czwartą ścianę i powie co o tym myśli.
+- Historia zawsze kieruje się wskazówkami gracza.
+    - Chociaż raz zignorował moje wiadomości i zaczął
+    snuć własną opowieść, której w żaden sposób nie
+    mogłem przerwać.
+- ai-character-chat reaguje inaczej jeśli zaczniesz pisać
+w kilku językach albo nie używasz angielskiego.
+- ai-rpg to ignoruje.
 
 Jeśli zrobię, że AI obsługuje sklepik i pamięta ile
 rzeczy ma w magazynie. A potem jakiś prosty skrypt
